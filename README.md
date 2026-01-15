@@ -1,7 +1,19 @@
-## Oi oi oi, eu sou a Thalita  👋
+## Olá, eu sou a Thalita 👋
 
- 
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas;
-- 😄 Pronomes: ela/dela;
-- ⚡ Fato curioso: adoro ler ao ar livre.
+🎯 Analista de Dados Júnior em formação contínua, com base em processos administrativos e organização de dados.
+
+📊 Experiência prática com:
+- Excel (estruturação de dados, tabelas dinâmicas e análise operacional)
+- Organização e consolidação de informações para apoio à decisão
+
+📈 Atualmente em evolução para:
+- Power BI
+- Python para análise de dados
+
+🧠 Interesses:
+- Análise de dados aplicada a processos
+- Melhoria contínua
+- Visualização e interpretação de informações
+
+📌 Este GitHub é meu portfólio de projetos práticos em dados.
 
